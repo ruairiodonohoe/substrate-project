@@ -1,0 +1,13 @@
+_commit: v2.0.0
+_src_path: gh:superlinear-ai/substrate
+author_email: ruairiodonohoe@gmail.com
+author_name: Ruairi O'Donohoe
+project_description: A test python substrate app with Copier
+project_name: Substrate Project
+project_type: app
+project_url: https://github.com/ruairiodonohoe/substrate-project.git
+python_version: '3.12'
+typing: strict
+with_conventional_commits: false
+with_fastapi_api: true
+with_typer_cli: true
